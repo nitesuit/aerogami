@@ -51,7 +51,7 @@ marketing_desc:
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
+  github: https://www.github.com/nitesuit
   facebook:
   twitter:
   pinterest:
